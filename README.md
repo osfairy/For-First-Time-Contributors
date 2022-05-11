@@ -17,7 +17,7 @@ I have entered my name and a link to my Twitter profile as an example.
 | Ife | [Follow me on Twitter](twitter.com/_ifeoluwafavour)|
 | Your turn | Your socials |
 
-Don't forget to include a detailed description of the changes you made in the the Commit message box.
+Don't forget to include a detailed description of the changes you made in the Commit changes message box.
 
 ## Contribution Guidelines
 The guide to making a contribution is in the Open-Source Guide.
