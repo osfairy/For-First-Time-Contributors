@@ -22,3 +22,6 @@ Don't forget to include a detailed description of the changes you made in the th
 The guide to making a contribution is in the Open-Source Guide.
 
 Please follow our Code of Conduct.
+
+## License
+This project is using [The Unlicense License](https://github.com/ifeoluwafavour/For-First-Time-Contributors/blob/main/LICENSE)
